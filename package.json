@@ -1,0 +1,7 @@
+{
+  "name": "cdn-edge",
+  "version": "1.0.0",
+  "description": "vercel cdn-edge",
+  "private": true,
+  "license": "MIT"
+}

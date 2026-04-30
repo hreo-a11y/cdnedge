@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "cdn-edge",
+  "name": "cdnedge",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],

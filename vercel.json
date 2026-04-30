@@ -2,7 +2,7 @@
   "version": 2,
   "name": "cdnedge",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/dex" }
+    { "source": "/(.*)", "destination": "/apo/dex" }
   ],
   "trailingSlash": false
 }

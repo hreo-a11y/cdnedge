@@ -1,5 +1,5 @@
 {
-  "name": "cdn-edge",
+  "name": "cdnedge",
   "version": "1.0.0",
   "description": "vercel cdn-edge",
   "private": true,

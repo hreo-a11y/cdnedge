@@ -1,7 +1,7 @@
 export const config = { runtime: "edge" };
 
 // Configuration for the remote endpoint
-const REMOTE_ORIGIN = (process.env.TARO || "").replace(/\/$/, "");
+const REMOTE_ORIGIN = (process.env.TARO_PATH || "").replace(/\/$/, "");
 
 // Headers that should not be passed through the tunnel
 const BLOCKED_HEADERS = new Set([
